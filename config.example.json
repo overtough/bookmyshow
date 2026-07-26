@@ -1,0 +1,29 @@
+{
+  "target_url": "https://in.bookmyshow.com/movies/hyderabad/spider-man-brand-new-day/buytickets/ET00505091/20260802?etCodes=ET00505091&language=english&refEventCode=ET00505091",
+  "show_label": "Spider-Man: Brand New Day (Prasads - 2nd Aug)",
+  "target_cinema": "Prasads Multiplex",
+  "closed_text_signal": "No showtimes available",
+  "poll_interval_minutes": 5,
+  "run_mode": "once",
+
+  "telegram_bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+  "telegram_chat_id": "YOUR_TELEGRAM_CHAT_ID",
+
+  "gmail_sender_email": "YOUR_GMAIL_ADDRESS@gmail.com",
+  "gmail_app_password": "YOUR_16_CHAR_APP_PASSWORD",
+  "gmail_receiver_email": "YOUR_RECEIVER_EMAIL@gmail.com",
+
+  "whatsapp_phone": "YOUR_PHONE_WITH_COUNTRY_CODE_E164",
+  "whatsapp_apikey": "YOUR_CALLMEBOT_API_KEY",
+
+  "twilio_account_sid": "YOUR_TWILIO_ACCOUNT_SID",
+  "twilio_auth_token": "YOUR_TWILIO_AUTH_TOKEN",
+  "twilio_whatsapp_from": "whatsapp:+14155238886",
+  "twilio_whatsapp_to": "whatsapp:+919876543210",
+
+  "green_api_instance_id": "YOUR_GREEN_API_INSTANCE_ID",
+  "green_api_token": "YOUR_GREEN_API_TOKEN",
+  "green_api_to_phone": "919876543210",
+
+  "discord_webhook_url": "YOUR_DISCORD_WEBHOOK_URL"
+}

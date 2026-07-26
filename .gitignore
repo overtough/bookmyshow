@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Local sensitive config
+config.json
+
+# Scratch files
+inspect_*.py
+dump_page_text.txt
+aug2_text.txt
+test_*.py
