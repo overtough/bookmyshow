@@ -1,10 +1,7 @@
 {
-  "is_open": true,
-  "last_checked": "2026-08-08 23:59:14",
-  "last_status": "OPEN: Found 2 showtime(s) for 'Prasads Multiplex': 08:00 AM, 10:40 AM",
-  "showtime_count": 2,
-  "showtimes": [
-    "08:00 AM",
-    "10:40 AM"
-  ]
+  "is_open": false,
+  "last_checked": "2026-08-09 01:52:36",
+  "last_status": "CLOSED: No showtimes listed yet for 'Prasads Multiplex'",
+  "showtime_count": 0,
+  "showtimes": []
 }
